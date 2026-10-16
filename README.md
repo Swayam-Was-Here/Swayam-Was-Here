@@ -8,7 +8,7 @@
 
 <!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/swayam-p-7a4b72250/" target="_blank">
+  <a href="https://www.linkedin.com/in/swayamprasad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="https://x.com/SwayamWasHere" target="_blank">
